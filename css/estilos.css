@@ -12,6 +12,10 @@
    margin-top:300px;
 }
 
+.instagram{
+    boder-   
+}
+
 footer{
     width: 100%;
     background: #202020;
@@ -62,6 +66,7 @@ footer{
 .row img{
     width: 36px;
     height: 36px;
+    border-radius:50%;
 }
 
 .row label{
