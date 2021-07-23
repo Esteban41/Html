@@ -5,6 +5,11 @@
     font-family: sans-serif;
 }
 
+.anuncio{
+    text-align:center;
+    height:200;
+}
+
 footer{
     width: 100%;
     background: #202020;
