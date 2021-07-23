@@ -6,8 +6,10 @@
 }
 
 .anuncio{
-    text-align:center;
-    height:200;
+   margin:auto;
+   text-align:center;
+   height:300px;
+   margin-top:300px;
 }
 
 footer{
